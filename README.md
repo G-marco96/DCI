@@ -1,6 +1,9 @@
-# Diseño de Cirucitos Impresos
+# Master en Sisemas Electronicos (Digital)
 
-Proyecto final de curso
+Materia: Diseño de Cirucitos Impresos (DCI)
 
-Gianmarco Sangoi
-Vicent Beltrán 
+Proyecto: Proyecto final de curso
+
+Integrantes: Gianmarco Sangoi y Vicent Beltrán 
+
+Fecha de inicio: 5/14/2022
