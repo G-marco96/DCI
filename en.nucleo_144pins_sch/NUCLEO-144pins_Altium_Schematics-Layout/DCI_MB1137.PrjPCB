@@ -100,23 +100,6 @@ GenerateClassCluster=0
 DocumentUniqueId=COCOFIEI
 
 [Document4]
-DocumentPath=DCI_ST_LINK_V2-1.SCHDOC
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GFFURHFO
-
-[Document5]
 DocumentPath=DCI_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSKBCQNJ
 
-[Document6]
+[Document5]
 DocumentPath=DCI_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=41
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCMVOHIJ
 
-[Document7]
+[Document6]
 DocumentPath=DCI_MB1137.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQCTAHJF
 
-[Document8]
+[Document7]
 DocumentPath=DCI_MB1137.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,9 +165,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VARGUNBE
+DocumentUniqueId=IJPUSFXC
 
-[Document9]
+[Document8]
 DocumentPath=DCI_MB1137.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJBROHPW
 
-[Document10]
+[Document9]
 DocumentPath=DCI_MB1137.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,6 +200,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document10]
+DocumentPath=DCI_TCAN_ADC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UDSOKZAQ
 
 [Configuration1]
 Name=Sources
