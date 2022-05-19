@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=DCI_Connectors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=DCI_Connectors.SchDoc|FileName=DCI_Ethernet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=DCI_Connectors.SchDoc|FileName=DCI_MB1137.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DCI_Connectors.SchDoc|FileName=DCI_MCU_144.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DCI_Connectors.SchDoc|FileName=DCI_ST_LINK_V2-1.SCHDOC|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DCI_Connectors.SchDoc|FileName=DCI_USB.SchDoc|SheetNumber=4
