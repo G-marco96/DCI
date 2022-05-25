@@ -1,0 +1,16 @@
+Added Component: Designator=D6(SOT23-6L)
+Add component (AddParameter): Name = "Distrib"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "EAR99/NEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "ESDA5V3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "ESDA5V3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ordered by"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Provided"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ref St"; Value = "9179034"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN13_4 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=USB_D_P Pin=D6-3
+Added Pin To Net: NetName=USB_D_N Pin=D6-4
+Added Pin To Net: NetName=GND Pin=D6-5
+Added Pin To Net: NetName=NetC54_1 Pin=D6-6
+Added Member To Class: ClassName=U_USB Member=Component D6 ESDA6V1BC6

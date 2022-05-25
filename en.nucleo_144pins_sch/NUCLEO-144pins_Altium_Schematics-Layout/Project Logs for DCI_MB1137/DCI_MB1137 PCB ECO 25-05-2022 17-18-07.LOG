@@ -1,0 +1,5 @@
+Added Component: Designator=R35(0603R)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC54_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Member To Class: ClassName=U_MCU_144 Member=Component R35 10K
