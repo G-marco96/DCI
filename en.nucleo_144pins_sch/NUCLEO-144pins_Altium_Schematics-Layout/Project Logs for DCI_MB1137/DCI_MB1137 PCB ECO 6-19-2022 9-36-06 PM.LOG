@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=NC Pin=J1-2
+Added Pin To Net: NetName=NC Pin=J1-4
+Added Pin To Net: NetName=NC Pin=J1-6
+Added Pin To Net: NetName=NC Pin=J1-8
+Added Pin To Net: NetName=LED(GREEN)_A Pin=J1-11
+Added Pin To Net: NetName=SHIELD Pin=J1-S1
+Added Pin To Net: NetName=SHIELD Pin=J1-S2
+Added Pin To Net: NetName=CAN_U_DCI_TCAN_1_P Pin=R23_U_DCI_TCAN_1-2
+Added Pin To Net: NetName=CAN_U_DCI_TCAN_2_P Pin=R23_U_DCI_TCAN_2-2
+Added Pin To Net: NetName=CAN_U_DCI_TCAN_1_N Pin=W1_U_DCI_TCAN_1-2
+Added Pin To Net: NetName=CAN_U_DCI_TCAN_2_N Pin=W1_U_DCI_TCAN_2-2
+Added Pin To Net: NetName=LED(GREEN)_K Pin=J1-12
+Added Pin To Net: NetName=LED(GREEN)_K Pin=R22-1
+Added Net: Name=LED(GREEN)_K
+Added Pin To Net: NetName=LED(YELLOW)_A Pin=J1-10
+Added Pin To Net: NetName=LED(YELLOW)_A Pin=U3-3
+Added Net: Name=LED(YELLOW)_A
+Added Pin To Net: NetName=LED(YELLOW)_K Pin=J1-9
+Added Pin To Net: NetName=LED(YELLOW)_K Pin=R20-1
+Added Net: Name=LED(YELLOW)_K
+Added Pin To Net: NetName=RX+ Pin=J1-5
+Added Pin To Net: NetName=RX+ Pin=U2-11
+Added Net: Name=RX+
+Added Pin To Net: NetName=RX- Pin=J1-7
+Added Pin To Net: NetName=RX- Pin=U2-9
+Added Net: Name=RX-
+Added Pin To Net: NetName=TX+ Pin=J1-1
+Added Pin To Net: NetName=TX+ Pin=U2-16
+Added Net: Name=TX+
+Added Pin To Net: NetName=TX- Pin=J1-3
+Added Pin To Net: NetName=TX- Pin=U2-14
+Added Net: Name=TX-
