@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VDD Pin=C47-1
+Removed Pin From Net: NetName=VDD Pin=CB41-2
+Removed Pin From Net: NetName=GND Pin=CB42-2
+Removed Pin From Net: NetName=VDD Pin=CB43-1
+Removed Pin From Net: NetName=VDD Pin=CB44-1
+Removed Pin From Net: NetName=AGND Pin=CB45-1
+Removed Pin From Net: NetName=NetC48_1 Pin=CB46-1
+Removed Pin From Net: NetName=GND Pin=CB46-2
+Removed Pin From Net: NetName=VDD Pin=CB47-2
+Removed Pin From Net: NetName=GND Pin=CB48-2
+Removed Pin From Net: NetName=GND Pin=CB49-2
+Removed Pin From Net: NetName=VDD Pin=U42-106
+Removed Member From Class: ClassName=U_MCU_144 Member=CB41
+Removed Member From Class: ClassName=U_MCU_144 Member=CB42
+Removed Member From Class: ClassName=U_MCU_144 Member=CB43
+Removed Member From Class: ClassName=U_MCU_144 Member=CB44
+Removed Member From Class: ClassName=U_MCU_144 Member=CB45
+Removed Member From Class: ClassName=U_MCU_144 Member=CB46
+Removed Member From Class: ClassName=U_MCU_144 Member=CB47
+Removed Member From Class: ClassName=U_MCU_144 Member=CB48
+Removed Member From Class: ClassName=U_MCU_144 Member=CB49
+Added Pin To Net: NetName=VDD Pin=C49-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=VDD Pin=U42-6
+Added Pin To Net: NetName=AGND Pin=U42-30
+Added Pin To Net: NetName=GND Pin=U42-38
+Added Pin To Net: NetName=VDD Pin=U42-143
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_1 Pin=U42-106
+Added Net: Name=NetC47_1
+Added Member To Class: ClassName=U_MCU_144 Member=Component C73 100nF

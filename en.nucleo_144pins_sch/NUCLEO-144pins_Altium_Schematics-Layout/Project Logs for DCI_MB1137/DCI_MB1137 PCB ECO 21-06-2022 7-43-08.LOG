@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=PWR Member=Wire AGND
+Added Member To Class: ClassName=PWR Member=Wire AVDD_COND
+Added Member To Class: ClassName=PWR Member=Wire AVDD
+Added Member To Class: ClassName=PWR Member=Wire SHIELD
+Added Member To Class: ClassName=PWR Member=Wire VDD_ETHERNET

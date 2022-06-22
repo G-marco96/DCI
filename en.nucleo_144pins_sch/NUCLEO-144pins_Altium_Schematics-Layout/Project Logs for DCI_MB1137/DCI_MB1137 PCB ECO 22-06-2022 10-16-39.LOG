@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PA7 Pin=JP41-1
+Removed Pin From Net: NetName=PB13 Pin=JP42-2
+Removed Pin From Net: NetName=PG7 Pin=JP43-2
+Removed Member From Class: ClassName=U_MCU_144 Member=JP41
+Removed Member From Class: ClassName=U_MCU_144 Member=JP42
+Removed Member From Class: ClassName=U_MCU_144 Member=JP43
+Added Pin To Net: NetName=PA7 Pin=R16-2
+Added Pin To Net: NetName=PG7 Pin=R56-2
+Added Pin To Net: NetName=PG7 Pin=R58-1
+Added Pin To Net: NetName=PB13 Pin=U3-18

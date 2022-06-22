@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=SHIELD Pin=SB1-1
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=SHIELD Pin=SB2-1
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Pin From Net: NetName=CAN_U_DCI_TCAN_1_N Pin=W1_U_DCI_TCAN_1-2
+Removed Pin From Net: NetName=CAN_U_DCI_TCAN_2_N Pin=W1_U_DCI_TCAN_2-2
+Removed Member From Class: ClassName=U_Ethernet Member=SB1
+Removed Member From Class: ClassName=U_Ethernet Member=SB2
+Removed Member From Class: ClassName=U_DCI_TCAN_1 Member=W1_U_DCI_TCAN_1
+Removed Member From Class: ClassName=U_DCI_TCAN_2 Member=W1_U_DCI_TCAN_2
+Change Component Designator: OldDesignator=R23_TCAN_1 NewDesignator=R23_U_DCI_TCAN_1
+Added Component: Designator=R29(0603R)
+Add component (AddParameter): Name = "Ordered by"; Value = "Subcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_U_DCI_TCAN_1_N Pin=R23_U_DCI_TCAN_1-1
+Added Pin To Net: NetName=CAN_U_DCI_TCAN_2_N Pin=R23_U_DCI_TCAN_2-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=SHIELD Pin=R29-2
+Added Member To Class: ClassName=U_Ethernet Member=Component R29 0

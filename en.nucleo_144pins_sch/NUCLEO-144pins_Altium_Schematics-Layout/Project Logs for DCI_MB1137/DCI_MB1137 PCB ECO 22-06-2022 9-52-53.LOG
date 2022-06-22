@@ -1,0 +1,31 @@
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Component: Designator=TP5(TP)
+Added Component: Designator=TP6(TP)
+Added Component: Designator=TP7(TP)
+Added Component: Designator=TP8(TP)
+Added Component: Designator=TP9(TP)
+Added Component: Designator=TP10(TP)
+Added Pin To Net: NetName=+5V Pin=TP1-1
+Added Pin To Net: NetName=VDD Pin=TP2-1
+Added Pin To Net: NetName=AVDD Pin=TP3-1
+Added Pin To Net: NetName=AVDD_COND Pin=TP4-1
+Added Pin To Net: NetName=VDD_ETHERNET Pin=TP5-1
+Added Pin To Net: NetName=+12V Pin=TP6-1
+Added Pin To Net: NetName=PWR_JACK Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=TP8-1
+Added Pin To Net: NetName=AGND Pin=TP9-1
+Added Pin To Net: NetName=SHIELD Pin=TP10-1
+Added Member To Class: ClassName=U_MCU_144 Member=Component C73 100nF
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP1 TP_5V
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP2 TP_VDD
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP3 TP_AVDD
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP4 TP_AVDD_C
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP5 TP_AVDD_ETH
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP6 TP_12V
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP7 TP_PJ
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP8 TP_GND
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP9 TP_AGND
+Added Member To Class: ClassName=U_DCI_MCU_Power Member=Component TP10 TP_EGND
