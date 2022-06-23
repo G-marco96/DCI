@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP_5V
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP_V
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP_AVDD
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP_AVDD_C
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP_AVDD_ETH
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP_12V
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP_PJ
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP_GND
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP_AGND
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP_EGND
+Change Component Designator: OldDesignator=TP41 NewDesignator=USB_SOF

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=TP_AVDD NewDesignator=TP_AV
+Change Component Designator: OldDesignator=TP_AVDD_C NewDesignator=TP_AV_C
+Change Component Designator: OldDesignator=TP_AVDD_ETH NewDesignator=TP_AV_ETH

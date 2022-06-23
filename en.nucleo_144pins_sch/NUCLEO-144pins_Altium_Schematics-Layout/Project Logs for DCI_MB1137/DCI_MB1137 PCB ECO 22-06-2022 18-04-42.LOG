@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=U_DCI_MCU_Power Member=TP_AV_ETH
+Removed Member From Class: ClassName=U_DCI_MCU_Power Member=TP_EGND
+Change Component Designator: OldDesignator=TP_GND NewDesignator=TP_GND1
+Added Member To Class: ClassName=U_Ethernet Member=Component TP_AV_ETH TP_AVDD_ETH
+Added Member To Class: ClassName=U_Ethernet Member=Component TP_EGND

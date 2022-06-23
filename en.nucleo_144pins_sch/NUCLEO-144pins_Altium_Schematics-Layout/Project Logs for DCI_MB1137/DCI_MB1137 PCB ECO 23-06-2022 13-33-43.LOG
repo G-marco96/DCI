@@ -1,0 +1,3 @@
+Added Member To Class: ClassName=U_MCU_144 Member=Component TP_AGND
+Added Member To Class: ClassName=U_DC1_ADC_Conditioning Member=Component TP_AV_C TP_AVDD_C
+Added Member To Class: ClassName=U_MCU_144 Member=Component TP_AV TP_AVDD

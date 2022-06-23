@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AGND Pin=TP_AGND-1
+Removed Pin From Net: NetName=AVDD Pin=TP_AV-1
+Removed Pin From Net: NetName=AVDD_COND Pin=TP_AV_C-1
+Removed Member From Class: ClassName=U_DCI_MCU_Power Member=TP_AGND
+Removed Member From Class: ClassName=U_DCI_MCU_Power Member=TP_AV_C
+Removed Member From Class: ClassName=U_DCI_MCU_Power Member=TP_AV
+Added Component: Designator=TP_AGND(TP)
+Added Component: Designator=TP_AV_C(TP)
+Added Component: Designator=TP_AV(TP)
+Added Pin To Net: NetName=AGND Pin=TP_AGND-1
+Added Pin To Net: NetName=AVDD Pin=TP_AV-1
+Added Pin To Net: NetName=AVDD_COND Pin=TP_AV_C-1
+Added Member To Class: ClassName=U_MCU_144 Member=Component TP_AGND
+Added Member To Class: ClassName=U_DC1_ADC_Conditioning Member=Component TP_AV_C TP_AVDD_C
+Added Member To Class: ClassName=U_MCU_144 Member=Component TP_AV TP_AVDD
