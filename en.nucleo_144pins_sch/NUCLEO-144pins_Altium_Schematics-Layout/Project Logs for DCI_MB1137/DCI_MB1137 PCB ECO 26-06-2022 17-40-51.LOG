@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=RX+ New Net Name=RX_P
+Change Net Name : Old Net Name=RX- New Net Name=RX_N
+Change Net Name : Old Net Name=TX+ New Net Name=TX_P
+Change Net Name : Old Net Name=TX- New Net Name=TX_N

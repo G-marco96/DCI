@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=U43 Old DesignItemId=CMP-0186-00026-2 New DesignItemId=PR-BUSIC-MCP23S17-29
+Change Footprint: Footprint Not Found QFN-ML28_L-Improved_Holes
+Change Component Library : Designator=U43 Old Library=Altium Content Vault New Library=DCI_MB1137.SCHLIB
+Change Managed Component Library Link : Designator=U43 Old VaultGUID= New VaultGUID= Old ItemGUID=64F03F66-682B-487E-B38D-B0CBEBA9AED3 New ItemGUID= Old RevisionGUID=19A31B2D-ECAF-402F-B8BA-370A1DC891FA New RevisionGUID=

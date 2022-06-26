@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C3 Old Footprint=TAN-A New Footprint=TAN-A - XDown
+Change Component Footprint: Designator=C47 Old Footprint=TAN-A New Footprint=TAN-A - XDown
+Added Member To Class: ClassName=U_Ethernet Member=Component C3 10uF

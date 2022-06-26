@@ -1,0 +1,31 @@
+Added Component: Designator=U43(QFN-ML28_L-Improved_Holes)
+Added Pin To Net: NetName=PX12 Pin=U43-1
+Added Pin To Net: NetName=PX13 Pin=U43-2
+Added Pin To Net: NetName=PX14 Pin=U43-3
+Added Pin To Net: NetName=PX15 Pin=U43-4
+Added Pin To Net: NetName=VDD Pin=U43-5
+Added Pin To Net: NetName=GND Pin=U43-6
+Added Pin To Net: NetName=PE8 Pin=U43-7
+Added Pin To Net: NetName=PE2 Pin=U43-8
+Added Pin To Net: NetName=PE6 Pin=U43-9
+Added Pin To Net: NetName=PE5 Pin=U43-10
+Added Pin To Net: NetName=PE12 Pin=U43-11
+Added Pin To Net: NetName=PE13 Pin=U43-12
+Added Pin To Net: NetName=PE14 Pin=U43-13
+Added Pin To Net: NetName=PE9 Pin=U43-14
+Added Pin To Net: NetName=PE10 Pin=U43-15
+Added Pin To Net: NetName=PE11 Pin=U43-16
+Added Pin To Net: NetName=PX0 Pin=U43-17
+Added Pin To Net: NetName=PX1 Pin=U43-18
+Added Pin To Net: NetName=PX2 Pin=U43-19
+Added Pin To Net: NetName=PX3 Pin=U43-20
+Added Pin To Net: NetName=PX4 Pin=U43-21
+Added Pin To Net: NetName=PX5 Pin=U43-22
+Added Pin To Net: NetName=PX6 Pin=U43-23
+Added Pin To Net: NetName=PX7 Pin=U43-24
+Added Pin To Net: NetName=PX8 Pin=U43-25
+Added Pin To Net: NetName=PX9 Pin=U43-26
+Added Pin To Net: NetName=PX10 Pin=U43-27
+Added Pin To Net: NetName=PX11 Pin=U43-28
+Added Pin To Net: NetName=GND Pin=U43-29
+Added Member To Class: ClassName=U_MCU_144 Member=Component U43 MCP23S17T-E/ML

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PE11 Pin=U43-15
+Removed Pin From Net: NetName=PE10 Pin=U43-16
+Change Component Footprint: Designator=U43 Old Footprint=QFN-ML28_M New Footprint=QFN-ML28_L-Improved_Holes
+Change Managed Component Library Link : Designator=U43 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID= New ItemGUID= Old RevisionGUID= New RevisionGUID=
+Change component parameters: Designator = "U43" ("U43"); Footprint = "QFN-ML28_M"; UniqueID = "\KFAVARBW\VYQSDHNI" ("\KFAVARBW\VYQSDHNI")
+Added Pin To Net: NetName=PE10 Pin=U43-15
+Added Pin To Net: NetName=PE11 Pin=U43-16
