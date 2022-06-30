@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TD_P Pin=U1-3
+Removed Pin From Net: NetName=TD_N Pin=U1-4
+Added Pin To Net: NetName=TD_N Pin=U1-3
+Added Pin To Net: NetName=TD_P Pin=U1-4
+Added Room: Name=U_Ethernet

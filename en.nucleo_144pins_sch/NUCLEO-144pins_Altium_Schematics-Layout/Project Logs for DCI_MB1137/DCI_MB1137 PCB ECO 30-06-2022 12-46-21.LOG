@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=TD_P Pin=U1-3
+Removed Pin From Net: NetName=TD_N Pin=U1-4
+Added Pin To Net: NetName=TD_N Pin=U1-3
+Added Pin To Net: NetName=TD_P Pin=U1-4
+Added Member To Class: ClassName=U_USB Member=Component D41 ESDA6V1BC6
+Added Member To Class: ClassName=U_DC1_ADC_Conditioning Member=Component U5 MC33077DR2G
+Added Member To Class: ClassName=U_MCU_144 Member=Component U41 M25P16-VMW6G
+Added Member To Class: ClassName=U_MCU_144 Member=Component U42 MCU_LQFP144
+Added Room: Name=U_Ethernet
