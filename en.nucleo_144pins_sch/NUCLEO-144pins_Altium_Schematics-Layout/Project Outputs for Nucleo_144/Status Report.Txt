@@ -1,10 +1,14 @@
-Output: Report Board Stack
-Type  : Report Board Stack
-From  : Project [DCI_MB1137.PrjPCB]
-   Generated File[DCI_MB1137.xls]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:25:59 On 05/07/2022
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [DCI_MB1137.PcbDoc]
+   Generated File[Pick Place for DCI_MB1137.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:05:24 On 05/07/2022
+Finished Output Generation At 19:25:59 On 05/07/2022
