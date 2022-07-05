@@ -5,7 +5,7 @@ C:\Users\gsandar\Documents\GitHub\en.nucleo_144pins_sch\NUCLEO-144pins_Altium_Sc
 File Design Information:
 
 Date:       05/07/22
-Time:       19:29
+Time:       19:53
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
