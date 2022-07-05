@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\vibelmor\Documents\GitHub\DCI\en.nucleo_144pins_sch\NUCLEO-144pins_Altium_Schematics-Layout\DCI_MB1137.PcbDoc
-Date     : 04/07/2022
-Time     : 20:37:02
+PCB File : G:\Documents_SSD\Archivos_Gianmarco\UPV\Segundo_Cuatrimestre\Diseño_Circuitos_Impresos\Proyecto\DCI\en.nucleo_144pins_sch\NUCLEO-144pins_Altium_Schematics-Layout\DCI_MB1137.PcbDoc
+Date     : 7/5/2022
+Time     : 5:56:21 AM
 
 WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
    Polygon named: NONET_L06_P017 In net GND On Bottom Layer
@@ -11,144 +11,24 @@ WARNING: Design contains shelved or modified (but not repoured) polygons. The re
    Polygon named: NONET_L01_P001 In net AGND On Top Layer
    Polygon named: NONET_L01_P014 In net GND On Top Layer
 
+Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Internal')),(All)
+Rule Violations :0
+
 Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Bottom Internal')),(All)
-   Violation between Clearance Constraint: (0.142mm < 0.15mm) Between Track (14.015mm,43.569mm)(19.941mm,43.569mm) on Bottom Internal And Via (17.272mm,44.196mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.13mm < 0.15mm) Between Track (26.397mm,50.292mm)(32.184mm,44.505mm) on Bottom Internal And Via (29.972mm,45.847mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.13mm < 0.15mm) Between Track (32.184mm,43.439mm)(32.184mm,44.505mm) on Bottom Internal And Via (31.569mm,44.015mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.08mm < 0.15mm) Between Track (35.236mm,27.362mm)(36.519mm,27.362mm) on Bottom Internal And Via (36.195mm,26.797mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.143mm < 0.15mm) Between Track (36.519mm,27.362mm)(37.411mm,26.47mm) on Bottom Internal And Via (36.195mm,26.797mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.06mm < 0.15mm) Between Track (37.411mm,23.776mm)(46.581mm,14.605mm) on Bottom Internal And Track (45.963mm,14.254mm)(54.218mm,14.254mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.073mm < 0.15mm) Between Track (37.411mm,23.776mm)(46.581mm,14.605mm) on Bottom Internal And Via (41.529mm,20.447mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.058mm < 0.15mm) Between Track (38.735mm,25.756mm)(48.722mm,15.769mm) on Bottom Internal And Via (41.128mm,24.131mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.081mm < 0.15mm) Between Track (41.686mm,24.227mm)(41.686mm,24.588mm) on Bottom Internal And Via (41.128mm,24.131mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.081mm < 0.15mm) Between Track (41.686mm,24.227mm)(49.53mm,16.383mm) on Bottom Internal And Via (41.128mm,24.131mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.143mm < 0.15mm) Between Track (41.686mm,24.227mm)(49.53mm,16.383mm) on Bottom Internal And Via (46.609mm,20.193mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.079mm < 0.15mm) Between Track (45.759mm,13.798mm)(54.152mm,13.798mm) on Bottom Internal And Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.06mm < 0.15mm) Between Track (45.963mm,14.254mm)(54.218mm,14.254mm) on Bottom Internal And Track (46.581mm,14.605mm)(54.272mm,14.605mm) on Bottom Internal 
-   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (45.963mm,14.254mm)(54.218mm,14.254mm) on Bottom Internal And Track (54.272mm,14.605mm)(54.736mm,14.141mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.06mm < 0.15mm) Between Track (46.581mm,14.605mm)(54.272mm,14.605mm) on Bottom Internal And Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.096mm < 0.15mm) Between Track (46.581mm,14.605mm)(54.272mm,14.605mm) on Bottom Internal And Via (47.298mm,15.186mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.079mm < 0.15mm) Between Track (54.152mm,13.798mm)(58.399mm,9.551mm) on Bottom Internal And Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.079mm < 0.15mm) Between Track (54.152mm,13.798mm)(58.399mm,9.551mm) on Bottom Internal And Track (57.248mm,11.224mm)(62.055mm,11.224mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.083mm < 0.15mm) Between Track (54.152mm,13.798mm)(58.399mm,9.551mm) on Bottom Internal And Via (54.765mm,12.381mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal And Track (54.272mm,14.605mm)(54.736mm,14.141mm) on Bottom Internal 
-   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal And Track (54.736mm,14.141mm)(55.833mm,14.141mm) on Bottom Internal 
-   Violation between Clearance Constraint: (0.102mm < 0.15mm) Between Track (54.272mm,14.605mm)(54.736mm,14.141mm) on Bottom Internal And Via (54.973mm,14.877mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.073mm < 0.15mm) Between Track (55.87mm,14.104mm)(61.969mm,14.104mm) on Bottom Internal And Via (56.21mm,14.662mm) from Top Layer to Bottom Layer 
-Rule Violations :23
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Layer')),(All)
-   Violation between Clearance Constraint: (0.111mm < 0.15mm) Between Pad R19-1(52.438mm,14.877mm) on Top Layer And Track (53.18mm,13.096mm)(53.18mm,17.217mm) on Top Layer 
-   Violation between Clearance Constraint: (0.111mm < 0.15mm) Between Pad R19-2(52.438mm,16.477mm) on Top Layer And Track (53.18mm,13.096mm)(53.18mm,17.217mm) on Top Layer 
-   Violation between Clearance Constraint: (0.098mm < 0.15mm) Between Pad U3-12(53.83mm,12.255mm) on Top Layer And Track (54.153mm,11.769mm)(54.765mm,12.381mm) on Top Layer 
-   Violation between Clearance Constraint: (0.144mm < 0.15mm) Between Pad U3-18(50.68mm,12.905mm) on Top Layer And Track (48.799mm,15.66mm)(51.166mm,13.292mm) on Top Layer 
-   Violation between Clearance Constraint: (0.15mm < 0.15mm) Between Pad U3-7(53.83mm,9.755mm) on Top Layer And Track (54.226mm,10.241mm)(54.806mm,9.661mm) on Top Layer 
-   Violation between Clearance Constraint: (0.144mm < 0.15mm) Between Pad U42-1(30.042mm,44.945mm) on Top Layer And Track (28.149mm,44.495mm)(29.693mm,44.495mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-136(36.017mm,46.92mm) on Top Layer And Track (35.617mm,46.152mm)(35.617mm,46.571mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-136(36.017mm,46.92mm) on Top Layer And Track (35.617mm,46.152mm)(36.015mm,45.754mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-24(30.042mm,33.445mm) on Top Layer And Track (28.997mm,33.568mm)(29.274mm,33.845mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-24(30.042mm,33.445mm) on Top Layer And Track (29.274mm,33.845mm)(29.693mm,33.845mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-25(30.042mm,32.945mm) on Top Layer And Track (29.086mm,33.157mm)(29.274mm,33.345mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-25(30.042mm,32.945mm) on Top Layer And Track (29.274mm,33.345mm)(29.693mm,33.345mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-36(30.042mm,27.445mm) on Top Layer And Track (30.391mm,27.845mm)(33.623mm,27.845mm) on Top Layer 
-   Violation between Clearance Constraint: (0.144mm < 0.15mm) Between Pad U42-4(30.042mm,43.445mm) on Top Layer And Track (28.909mm,43.895mm)(29.693mm,43.895mm) on Top Layer 
-   Violation between Clearance Constraint: (0.113mm < 0.15mm) Between Pad U42-44(35.517mm,25.47mm) on Top Layer And Track (35.098mm,25.819mm)(35.098mm,26.943mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-45(36.017mm,25.47mm) on Top Layer And Track (35.617mm,25.819mm)(35.617mm,26.238mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-45(36.017mm,25.47mm) on Top Layer And Track (35.617mm,26.238mm)(36.176mm,26.797mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-62(44.517mm,25.47mm) on Top Layer And Track (44.456mm,26.699mm)(44.917mm,26.238mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-62(44.517mm,25.47mm) on Top Layer And Track (44.917mm,25.819mm)(44.917mm,26.238mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-63(45.017mm,25.47mm) on Top Layer And Track (45.417mm,26.07mm)(45.417mm,26.457mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Pad U42-63(45.017mm,25.47mm) on Top Layer And Track (45.417mm,26.07mm)(45.517mm,25.47mm) on Top Layer 
-   Violation between Clearance Constraint: (0.135mm < 0.15mm) Between Pad X1-1(52.052mm,5.898mm) on Top Layer And Track (49.418mm,7.263mm)(51.412mm,7.263mm) on Top Layer 
-   Violation between Clearance Constraint: (0.135mm < 0.15mm) Between Pad X1-1(52.052mm,5.898mm) on Top Layer And Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (14.889mm,44.167mm)(15.494mm,43.562mm) on Top Layer And Track (15.539mm,43.941mm)(15.539mm,44.606mm) on Top Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (14.889mm,44.167mm)(15.494mm,43.562mm) on Top Layer And Track (15.539mm,43.941mm)(16.554mm,42.926mm) on Top Layer 
-   Violation between Clearance Constraint: (0.12mm < 0.15mm) Between Track (15.494mm,42.926mm)(15.494mm,43.562mm) on Top Layer And Track (15.539mm,43.941mm)(15.539mm,44.606mm) on Top Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (15.494mm,42.926mm)(15.494mm,43.562mm) on Top Layer And Track (15.539mm,43.941mm)(16.554mm,42.926mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (17.255mm,44.213mm)(17.255mm,45.229mm) on Top Layer And Via (17.82mm,44.871mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.092mm < 0.15mm) Between Track (27.091mm,33.568mm)(28.997mm,33.568mm) on Top Layer And Track (29.086mm,33.157mm)(29.274mm,33.345mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (27.091mm,33.568mm)(28.997mm,33.568mm) on Top Layer And Track (29.274mm,33.345mm)(29.693mm,33.345mm) on Top Layer 
-   Violation between Clearance Constraint: (0.092mm < 0.15mm) Between Track (28.997mm,33.568mm)(29.274mm,33.845mm) on Top Layer And Track (29.086mm,33.157mm)(29.274mm,33.345mm) on Top Layer 
-   Violation between Clearance Constraint: (0.092mm < 0.15mm) Between Track (28.997mm,33.568mm)(29.274mm,33.845mm) on Top Layer And Track (29.274mm,33.345mm)(29.693mm,33.345mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (31.381mm,36.435mm)(32.116mm,36.435mm) on Top Layer And Via (31.793mm,37mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.121mm < 0.15mm) Between Track (40.017mm,28.587mm)(40.017mm,46.571mm) on Top Layer And Via (39.425mm,45.502mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (42.996mm,25.819mm)(42.996mm,27.489mm) on Top Layer And Via (43.561mm,26.797mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.121mm < 0.15mm) Between Track (46.517mm,25.819mm)(46.517mm,27.705mm) on Top Layer And Via (45.974mm,27.94mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.121mm < 0.15mm) Between Track (46.517mm,27.705mm)(47.291mm,28.479mm) on Top Layer And Via (45.974mm,27.94mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (49.418mm,7.263mm)(51.412mm,7.263mm) on Top Layer And Track (50.498mm,7.874mm)(50.809mm,7.563mm) on Top Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (49.418mm,7.263mm)(51.412mm,7.263mm) on Top Layer And Track (50.809mm,7.563mm)(51.288mm,7.563mm) on Top Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (49.418mm,7.263mm)(51.412mm,7.263mm) on Top Layer And Track (51.288mm,7.563mm)(51.627mm,7.902mm) on Top Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.15mm) Between Track (49.418mm,7.263mm)(51.412mm,7.263mm) on Top Layer And Via (49.657mm,7.874mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.141mm < 0.15mm) Between Track (49.657mm,7.874mm)(50.498mm,7.874mm) on Top Layer And Via (51.054mm,8.128mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (50.489mm,15.464mm)(50.489mm,17.837mm) on Top Layer And Via (51.054mm,17.145mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.102mm < 0.15mm) Between Track (50.498mm,7.874mm)(50.809mm,7.563mm) on Top Layer And Via (51.054mm,8.128mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (50.809mm,7.563mm)(51.288mm,7.563mm) on Top Layer And Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (50.809mm,7.563mm)(51.288mm,7.563mm) on Top Layer And Via (51.054mm,8.128mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (51.288mm,7.563mm)(51.627mm,7.902mm) on Top Layer And Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer 
-   Violation between Clearance Constraint: (0.094mm < 0.15mm) Between Track (51.288mm,7.563mm)(51.627mm,7.902mm) on Top Layer And Via (51.054mm,8.128mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.038mm < 0.15mm) Between Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer And Track (51.627mm,7.902mm)(51.627mm,7.924mm) on Top Layer 
-   Violation between Clearance Constraint: (0.054mm < 0.15mm) Between Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer And Track (51.627mm,7.924mm)(51.675mm,7.972mm) on Top Layer 
-   Violation between Clearance Constraint: (0.054mm < 0.15mm) Between Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer And Track (51.675mm,7.972mm)(51.675mm,8.022mm) on Top Layer 
-   Violation between Clearance Constraint: (0.089mm < 0.15mm) Between Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer And Track (51.675mm,8.022mm)(51.68mm,8.027mm) on Top Layer 
-   Violation between Clearance Constraint: (0.089mm < 0.15mm) Between Track (51.412mm,7.263mm)(52.18mm,8.031mm) on Top Layer And Track (51.68mm,8.027mm)(51.68mm,8.914mm) on Top Layer 
-   Violation between Clearance Constraint: (0.137mm < 0.15mm) Between Track (51.627mm,7.902mm)(51.627mm,7.924mm) on Top Layer And Via (51.054mm,8.128mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.137mm < 0.15mm) Between Track (51.627mm,7.924mm)(51.675mm,7.972mm) on Top Layer And Via (51.054mm,8.128mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.095mm < 0.15mm) Between Track (54.062mm,9.477mm)(54.975mm,8.565mm) on Top Layer And Via (54.886mm,9.454mm) from Top Layer to Bottom Layer 
-Rule Violations :56
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Internal')),(All)
-   Violation between Clearance Constraint: (0.15mm < 0.15mm) Between Track (17.526mm,47.358mm)(17.526mm,48.672mm) on Top Internal And Via (18.161mm,48.387mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.119mm < 0.15mm) Between Track (17.82mm,44.871mm)(21.599mm,44.871mm) on Top Internal And Via (18.961mm,44.266mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.123mm < 0.15mm) Between Track (18.257mm,37.942mm)(32.004mm,37.942mm) on Top Internal And Via (24.769mm,37.334mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.141mm < 0.15mm) Between Track (21.599mm,44.871mm)(25.546mm,40.924mm) on Top Internal And Via (22.822mm,42.761mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.073mm < 0.15mm) Between Track (21.599mm,44.871mm)(25.546mm,40.924mm) on Top Internal And Via (22.898mm,44.361mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (22.367mm,45.691mm)(26.848mm,41.21mm) on Top Internal And Track (25.546mm,40.924mm)(34.008mm,40.924mm) on Top Internal 
-   Violation between Clearance Constraint: (0.08mm < 0.15mm) Between Track (22.367mm,45.691mm)(26.848mm,41.21mm) on Top Internal And Via (22.898mm,44.361mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (25.546mm,40.924mm)(34.008mm,40.924mm) on Top Internal And Track (26.848mm,41.21mm)(36.006mm,41.21mm) on Top Internal 
-   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (26.848mm,41.21mm)(36.006mm,41.21mm) on Top Internal And Track (34.008mm,40.924mm)(45.272mm,29.66mm) on Top Internal 
-   Violation between Clearance Constraint: (0.119mm < 0.15mm) Between Track (30.846mm,25.2mm)(33.638mm,27.992mm) on Top Internal And Track (33.403mm,28.402mm)(42.083mm,28.402mm) on Top Internal 
-   Violation between Clearance Constraint: (0.142mm < 0.15mm) Between Track (33.02mm,52.404mm)(33.528mm,51.896mm) on Top Internal And Track (33.961mm,50.211mm)(33.961mm,54.143mm) on Top Internal 
-   Violation between Clearance Constraint: (0.119mm < 0.15mm) Between Track (33.403mm,28.402mm)(42.083mm,28.402mm) on Top Internal And Track (33.638mm,27.992mm)(41.223mm,27.992mm) on Top Internal 
-   Violation between Clearance Constraint: (0.119mm < 0.15mm) Between Track (33.403mm,28.402mm)(42.083mm,28.402mm) on Top Internal And Track (41.223mm,27.992mm)(41.91mm,27.305mm) on Top Internal 
-   Violation between Clearance Constraint: (0.07mm < 0.15mm) Between Track (33.418mm,26.797mm)(36.116mm,24.099mm) on Top Internal And Via (36.002mm,23.556mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.142mm < 0.15mm) Between Track (33.528mm,43.942mm)(33.528mm,51.896mm) on Top Internal And Track (33.961mm,50.211mm)(33.961mm,54.143mm) on Top Internal 
-   Violation between Clearance Constraint: (0.142mm < 0.15mm) Between Track (33.528mm,43.942mm)(33.528mm,51.896mm) on Top Internal And Track (33.961mm,50.211mm)(34.933mm,49.239mm) on Top Internal 
-   Violation between Clearance Constraint: (0.08mm < 0.15mm) Between Track (33.528mm,43.942mm)(33.528mm,51.896mm) on Top Internal And Via (32.963mm,51.562mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.075mm < 0.15mm) Between Track (33.638mm,27.992mm)(41.223mm,27.992mm) on Top Internal And Via (34.036mm,27.432mm) from Top Layer to Top Internal 
-   Violation between Clearance Constraint: (0.065mm < 0.15mm) Between Track (34.081mm,26.779mm)(43.715mm,17.145mm) on Top Internal And Track (36.116mm,24.099mm)(36.258mm,24.099mm) on Top Internal 
-   Violation between Clearance Constraint: (0.065mm < 0.15mm) Between Track (34.081mm,26.779mm)(43.715mm,17.145mm) on Top Internal And Track (36.258mm,24.099mm)(45.813mm,14.543mm) on Top Internal 
-   Violation between Clearance Constraint: (0.07mm < 0.15mm) Between Track (36.116mm,24.099mm)(36.258mm,24.099mm) on Top Internal And Via (36.002mm,23.556mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.065mm < 0.15mm) Between Track (36.258mm,24.099mm)(45.813mm,14.543mm) on Top Internal And Track (43.715mm,17.145mm)(51.054mm,17.145mm) on Top Internal 
-   Violation between Clearance Constraint: (0.08mm < 0.15mm) Between Track (36.258mm,24.099mm)(45.813mm,14.543mm) on Top Internal And Via (36.002mm,23.556mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.08mm < 0.15mm) Between Track (42.842mm,23.161mm)(48.096mm,17.907mm) on Top Internal And Via (46.609mm,20.193mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.143mm < 0.15mm) Between Track (49.924mm,15.126mm)(53.467mm,18.669mm) on Top Internal And Via (51.054mm,17.145mm) from Top Layer to Bottom Layer 
-Rule Violations :25
-
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Track (22.367mm,45.691mm)(26.848mm,41.21mm) on Top Internal And Track (25.546mm,40.924mm)(34.008mm,40.924mm) on Top Internal Location : [X = 116.764mm][Y = 152.446mm]
-   Violation between Short-Circuit Constraint: Between Track (25.546mm,40.924mm)(34.008mm,40.924mm) on Top Internal And Track (26.848mm,41.21mm)(36.006mm,41.21mm) on Top Internal Location : [X = 120.344mm][Y = 152.446mm]
-   Violation between Short-Circuit Constraint: Between Track (26.848mm,41.21mm)(36.006mm,41.21mm) on Top Internal And Track (34.008mm,40.924mm)(45.272mm,29.66mm) on Top Internal Location : [X = 123.924mm][Y = 152.446mm]
-   Violation between Short-Circuit Constraint: Between Track (45.963mm,14.254mm)(54.218mm,14.254mm) on Bottom Internal And Track (54.272mm,14.605mm)(54.736mm,14.141mm) on Bottom Internal Location : [X = 144.232mm][Y = 125.731mm]
-   Violation between Short-Circuit Constraint: Between Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal And Track (54.272mm,14.605mm)(54.736mm,14.141mm) on Bottom Internal Location : [X = 144.393mm][Y = 125.577mm]
-   Violation between Short-Circuit Constraint: Between Track (54.218mm,14.254mm)(57.248mm,11.224mm) on Bottom Internal And Track (54.736mm,14.141mm)(55.833mm,14.141mm) on Bottom Internal Location : [X = 144.554mm][Y = 125.422mm]
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net PC15 Between Pad R47-2(28.143mm,39.67mm) on Top Layer And Track (28.897mm,39.819mm)(28.897mm,40.765mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net TD_P Between Pad R7-1(38.608mm,8.547mm) on Top Layer And Pad U1-4(40.176mm,11.044mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net TD_P Between Pad U2-1(35.712mm,7.549mm) on Top Layer And Pad R7-1(38.608mm,8.547mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net TD_N Between Track (34.582mm,9.338mm)(35.332mm,10.089mm) on Top Layer And Pad U1-3(37.776mm,11.044mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net TD_N Between Pad U1-3(37.776mm,11.044mm) on Top Layer And Via (41.402mm,9.652mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net TD_P Between Via (34.312mm,8.404mm) from Top Layer to Bottom Layer And Pad U2-1(35.712mm,7.549mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net PA2 Between Pad U3-12(53.83mm,12.255mm) on Top Layer And Track (53.85mm,12.44mm)(53.85mm,12.459mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NRST Between Pad U42-25(30.042mm,32.945mm) on Top Layer And Via (37.084mm,32.766mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net PC1 Between Pad U42-27(30.042mm,31.945mm) on Top Layer And Via (35.179mm,31.877mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net PX4 Between Pad U43-21(16.414mm,49.702mm) on Top Layer And Track (16.414mm,49.878mm)(16.414mm,51.51mm) on Top Layer 
    Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.074 sq. mm
-Rule Violations :11
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
    Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P001) on Top Layer 
@@ -177,61 +57,43 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.076mm < 0.08mm) Between Pad U1-2(37.776mm,11.994mm) on Top Layer And Via (38.862mm,11.938mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.076mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.038mm < 0.08mm) Between Area Fill (31.75mm,24.638mm) (49.784mm,26.289mm) on Top Solder And Via (36.195mm,26.727mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.038mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.022mm < 0.08mm) Between Pad U7-2(57.338mm,71.277mm) on Top Layer And Via (57.277mm,72.009mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.022mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.069mm < 0.08mm) Between Via (17.272mm,44.196mm) from Top Layer to Bottom Layer And Via (17.82mm,44.871mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.069mm] / [Bottom Solder] Mask Sliver [0.069mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (28.067mm,8.404mm) from Top Layer to Bottom Layer And Via (28.067mm,9.234mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (28.089mm,14.754mm) from Top Layer to Bottom Layer And Via (28.089mm,15.584mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (34.312mm,8.404mm) from Top Layer to Bottom Layer And Via (34.312mm,9.234mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (34.439mm,14.788mm) from Top Layer to Bottom Layer And Via (34.439mm,15.618mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (46.803mm,11.546mm) from Top Layer to Bottom Layer And Via (47.62mm,11.695mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (47.79mm,10.122mm) from Top Layer to Bottom Layer And Via (48.377mm,9.535mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.045mm < 0.08mm) Between Via (48.377mm,9.535mm) from Top Layer to Bottom Layer And Via (48.383mm,8.691mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.045mm] / [Bottom Solder] Mask Sliver [0.045mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (48.495mm,12.419mm) from Top Layer to Bottom Layer And Via (48.878mm,13.155mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.024mm < 0.08mm) Between Via (43.674mm,26.797mm) from Top Layer to Bottom Layer And Via (44.323mm,27.305mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.024mm] / [Bottom Solder] Mask Sliver [0.024mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (49.403mm,42.18mm) from Top Layer to Bottom Layer And Via (49.403mm,43.21mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (61.849mm,16.242mm) from Top Layer to Bottom Layer And Via (61.849mm,17.272mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-Rule Violations :13
+Rule Violations :8
 
 Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.009mm < 0.01mm) Between Pad R56-1(64.046mm,20.065mm) on Top Layer And Text "R56" (63.543mm,20.701mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.009mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad R57-2(65.913mm,12.751mm) on Top Layer And Text "R10" (63.5mm,11.303mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad U41-8(20.126mm,46.482mm) on Top Layer And Text "C73" (18.077mm,45.085mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad X41-2(24.638mm,42.017mm) on Top Layer And Text "C72" (24.384mm,42.334mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (28.897mm,39.819mm)(28.897mm,40.765mm) on Top Layer 
-   Violation between Net Antennae: Via (35.179mm,31.877mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (41.402mm,9.652mm) from Top Layer to Bottom Layer 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('RD_N'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('TD_P'))
-   Violation between Matched Net Lengths: Between Net TD_N And Net TD_P Actual Difference against TD_P is: 4.729mm, Tolerance : 2.54mm. 
+   Violation between Matched Net Lengths: Between Net TD_N And Net TD_P Actual Difference against TD_P is: 9.2mm, Tolerance : 2.54mm. 
 Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('RD_P'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('TD_N'))
-   Violation between Matched Net Lengths: Between Net TD_N And Net TD_P Actual Difference against TD_P is: 4.729mm, Tolerance : 2.54mm. 
+   Violation between Matched Net Lengths: Between Net TD_N And Net TD_P Actual Difference against TD_P is: 9.2mm, Tolerance : 2.54mm. 
 Rule Violations :1
-
-Processing Rule : Room U_DCI_TCAN_2 (Bounding Region = (106.299mm, 169.164mm, 120.269mm, 188.976mm) (InComponentClass('U_DCI_TCAN_2'))
-Rule Violations :0
-
-Processing Rule : Room U_MCU_144 (Bounding Region = (90.17mm, 127.762mm, 150.495mm, 187.325mm) (InComponentClass('U_MCU_144'))
-Rule Violations :0
 
 Processing Rule : Room U_DCI_TCAN_1 (Bounding Region = (92.329mm, 169.164mm, 106.299mm, 188.976mm) (InComponentClass('U_DCI_TCAN_1'))
 Rule Violations :0
 
-Processing Rule : Room U_Ethernet (Bounding Region = (87.757mm, 112.268mm, 152.654mm, 136.525mm) (InComponentClass('U_Ethernet'))
+Processing Rule : Room U_DCI_TCAN_2 (Bounding Region = (106.299mm, 169.164mm, 120.269mm, 188.976mm) (InComponentClass('U_DCI_TCAN_2'))
 Rule Violations :0
 
 Processing Rule : Room U_DC1_ADC_Conditioning (Bounding Region = (92.291mm, 138.122mm, 107.404mm, 151.711mm) (InComponentClass('U_DC1_ADC_Conditioning'))
@@ -240,13 +102,19 @@ Rule Violations :0
 Processing Rule : Room U_DCI_MCU_Power (Bounding Region = (141.451mm, 150.495mm, 164.973mm, 187.482mm) (InComponentClass('U_DCI_MCU_Power'))
 Rule Violations :0
 
+Processing Rule : Room U_Ethernet (Bounding Region = (87.757mm, 112.268mm, 152.654mm, 136.525mm) (InComponentClass('U_Ethernet'))
+Rule Violations :0
+
 Processing Rule : Room U_USB (Bounding Region = (144.399mm, 121.285mm, 165.1mm, 150.495mm) (InComponentClass('U_USB'))
+Rule Violations :0
+
+Processing Rule : Room U_MCU_144 (Bounding Region = (90.17mm, 127.762mm, 150.495mm, 187.325mm) (InComponentClass('U_MCU_144'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 148
+Violations Detected : 16
 Waived Violations : 0
 Time Elapsed        : 00:00:02
