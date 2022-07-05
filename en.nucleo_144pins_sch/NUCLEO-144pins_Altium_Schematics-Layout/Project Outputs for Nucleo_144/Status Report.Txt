@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [DCI_MB1137.PrjPCB]
+   Generated File[DCI_MB1137.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:05:24 On 05/07/2022
