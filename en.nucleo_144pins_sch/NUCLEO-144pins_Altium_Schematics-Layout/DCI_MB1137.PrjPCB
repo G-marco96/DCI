@@ -341,14 +341,10 @@ DocumentPath=Project Outputs for Nucleo_144\Gerber\DCI_MB1137.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Nucleo_144\DCI_MB1137.xls
-DItemRevisionGUID=
-
-[GeneratedDocument26]
 DocumentPath=Project Outputs for Nucleo_144\Design Rule Check - DCI_MB1137.html
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Nucleo_144\Pick Place\Pick Place for DCI_MB1137.txt
 DItemRevisionGUID=
 

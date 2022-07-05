@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\vibelmor\Documents\GitHub\DCI\en.nucleo_144pins_sch\NUCLEO-144pins_Altium_Schematics-Layout\DCI_MB1137.PcbDoc
 Date     : 05/07/2022
-Time     : 15:21:32
+Time     : 19:20:36
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -81,11 +81,7 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-   Waived Violation between Starved Thermal on GND: Via (24.769mm,37.334mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.Waived by Vicente Beltrán Morte at 05/07/2022 15:08:55GND ya está conectado a través de la capa superior con un plano. No es necesaria una conexión ideal con la capa
-Waived Violations :1
-
 
 Violations Detected : 0
-Waived Violations : 1
+Waived Violations : 0
 Time Elapsed        : 00:00:02
