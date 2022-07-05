@@ -1,54 +1,31 @@
 Protel Design System Design Rule Check
-PCB File : G:\Documents_SSD\Archivos_Gianmarco\UPV\Segundo_Cuatrimestre\Diseño_Circuitos_Impresos\Proyecto\DCI\en.nucleo_144pins_sch\NUCLEO-144pins_Altium_Schematics-Layout\DCI_MB1137.PcbDoc
-Date     : 7/5/2022
-Time     : 5:56:21 AM
+PCB File : C:\Users\vibelmor\Documents\GitHub\DCI\en.nucleo_144pins_sch\NUCLEO-144pins_Altium_Schematics-Layout\DCI_MB1137.PcbDoc
+Date     : 05/07/2022
+Time     : 15:21:32
 
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: NONET_L06_P017 In net GND On Bottom Layer
-   Polygon named: NONET_L01_P001 In net AGND On Top Layer
-   Polygon named: NONET_L01_P014 In net GND On Top Layer
-   Polygon named: NONET_L06_P017 In net GND On Bottom Layer
-   Polygon named: NONET_L01_P001 In net AGND On Top Layer
-   Polygon named: NONET_L01_P014 In net GND On Top Layer
-
-Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Internal')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Bottom Internal')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Top Layer')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.15mm) (OnLayer('Bottom Layer')),(All)
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.074 sq. mm
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P001) on Top Layer 
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P014) on Top Layer 
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L06_P017) on Bottom Layer 
-Rule Violations :3
-
-Processing Rule : Width Constraint (Min=0.262mm) (Max=0.291mm) (Preferred=0.291mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.15mm) (Max=0.8mm) (Preferred=0.5mm) (InNetClass('PWR'))
 Rule Violations :0
 
+Processing Rule : Width Constraint (Min=0.262mm) (Max=0.291mm) (Preferred=0.291mm) (All)
+Rule Violations :0
+
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.19mm) (All)
-   Violation between Minimum Annular Ring: (0.165mm < 0.19mm) Via (51.33mm,10.405mm) from Top Layer to Bottom Layer (Annular Ring=0.165mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.165mm < 0.19mm) Via (51.33mm,11.605mm) from Top Layer to Bottom Layer (Annular Ring=0.165mm) On (Top Layer)
-Rule Violations :2
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=10mm) (All)
 Rule Violations :0
@@ -57,15 +34,7 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.038mm < 0.08mm) Between Area Fill (31.75mm,24.638mm) (49.784mm,26.289mm) on Top Solder And Via (36.195mm,26.727mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.038mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.022mm < 0.08mm) Between Pad U7-2(57.338mm,71.277mm) on Top Layer And Via (57.277mm,72.009mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.022mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (28.067mm,8.404mm) from Top Layer to Bottom Layer And Via (28.067mm,9.234mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (28.089mm,14.754mm) from Top Layer to Bottom Layer And Via (28.089mm,15.584mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (34.312mm,8.404mm) from Top Layer to Bottom Layer And Via (34.312mm,9.234mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (34.439mm,14.788mm) from Top Layer to Bottom Layer And Via (34.439mm,15.618mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.024mm < 0.08mm) Between Via (43.674mm,26.797mm) from Top Layer to Bottom Layer And Via (44.323mm,27.305mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.024mm] / [Bottom Solder] Mask Sliver [0.024mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.03mm < 0.08mm) Between Via (49.403mm,42.18mm) from Top Layer to Bottom Layer And Via (49.403mm,43.21mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.03mm] / [Bottom Solder] Mask Sliver [0.03mm]
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
 Rule Violations :0
@@ -79,42 +48,44 @@ Rule Violations :0
 Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('RD_N'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('TD_P'))
-   Violation between Matched Net Lengths: Between Net TD_N And Net TD_P Actual Difference against TD_P is: 9.2mm, Tolerance : 2.54mm. 
-Rule Violations :1
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('TD_N'))
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('RD_P'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('TD_N'))
-   Violation between Matched Net Lengths: Between Net TD_N And Net TD_P Actual Difference against TD_P is: 9.2mm, Tolerance : 2.54mm. 
-Rule Violations :1
-
-Processing Rule : Room U_DCI_TCAN_1 (Bounding Region = (92.329mm, 169.164mm, 106.299mm, 188.976mm) (InComponentClass('U_DCI_TCAN_1'))
-Rule Violations :0
-
-Processing Rule : Room U_DCI_TCAN_2 (Bounding Region = (106.299mm, 169.164mm, 120.269mm, 188.976mm) (InComponentClass('U_DCI_TCAN_2'))
-Rule Violations :0
-
-Processing Rule : Room U_DC1_ADC_Conditioning (Bounding Region = (92.291mm, 138.122mm, 107.404mm, 151.711mm) (InComponentClass('U_DC1_ADC_Conditioning'))
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InNet('TD_P'))
 Rule Violations :0
 
 Processing Rule : Room U_DCI_MCU_Power (Bounding Region = (141.451mm, 150.495mm, 164.973mm, 187.482mm) (InComponentClass('U_DCI_MCU_Power'))
 Rule Violations :0
 
+Processing Rule : Room U_DC1_ADC_Conditioning (Bounding Region = (92.291mm, 138.122mm, 107.404mm, 151.711mm) (InComponentClass('U_DC1_ADC_Conditioning'))
+Rule Violations :0
+
 Processing Rule : Room U_Ethernet (Bounding Region = (87.757mm, 112.268mm, 152.654mm, 136.525mm) (InComponentClass('U_Ethernet'))
 Rule Violations :0
 
-Processing Rule : Room U_USB (Bounding Region = (144.399mm, 121.285mm, 165.1mm, 150.495mm) (InComponentClass('U_USB'))
+Processing Rule : Room U_DCI_TCAN_2 (Bounding Region = (106.299mm, 169.164mm, 120.269mm, 188.976mm) (InComponentClass('U_DCI_TCAN_2'))
 Rule Violations :0
 
 Processing Rule : Room U_MCU_144 (Bounding Region = (90.17mm, 127.762mm, 150.495mm, 187.325mm) (InComponentClass('U_MCU_144'))
 Rule Violations :0
 
+Processing Rule : Room U_DCI_TCAN_1 (Bounding Region = (92.329mm, 169.164mm, 106.299mm, 188.976mm) (InComponentClass('U_DCI_TCAN_1'))
+Rule Violations :0
+
+Processing Rule : Room U_USB (Bounding Region = (144.399mm, 121.285mm, 165.1mm, 150.495mm) (InComponentClass('U_USB'))
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+   Waived Violation between Starved Thermal on GND: Via (24.769mm,37.334mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.Waived by Vicente Beltrán Morte at 05/07/2022 15:08:55GND ya está conectado a través de la capa superior con un plano. No es necesaria una conexión ideal con la capa
+Waived Violations :1
 
-Violations Detected : 16
-Waived Violations : 0
+
+Violations Detected : 0
+Waived Violations : 1
 Time Elapsed        : 00:00:02
